@@ -17,6 +17,6 @@ h2 {
 }
 
 #tasks .completed
-  backgound-color : #ff0;
+  backgound-color: #ccc;
   text-decoration: underline;
 }
