@@ -3,7 +3,7 @@ body {
 }
 h1 {
   color: blue;
-  font-size: 3em; 
+  font-size: 3em;
 }
 
 h2 {
@@ -16,7 +16,7 @@ h2 {
   font-family: serif, cursive;
 }
 
-#tasks .completed 
+#tasks .completed
   backgound-color : #ccc;
   text-decoration: underline;
 }
